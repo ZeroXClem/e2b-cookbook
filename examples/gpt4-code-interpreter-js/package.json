@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@e2b/sdk": "^0.4.1",
+    "@e2b/sdk": "^0.12.5",
     "openai": "^4.10.0"
   }
 }
